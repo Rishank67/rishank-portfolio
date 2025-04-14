@@ -1,0 +1,22 @@
+[
+  {
+    "name": "HTML",
+    "icon": "RiHtml5Line"
+  },
+  {
+    "name": "CSS",
+    "icon": "RiCss3Fill"
+  },
+  {
+    "name": "JS",
+    "icon": "RiNodejsLine"
+  },
+  {
+    "name": "REACT JS",
+    "icon": "SiReact"
+  },
+  {
+    "name": "SQL",
+    "icon": "TbSql"
+  }
+]

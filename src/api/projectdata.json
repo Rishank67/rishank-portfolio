@@ -1,0 +1,23 @@
+[
+  {
+    "image": "/images/E-commerce.png",
+    "title": "E-COMMERCE WEBSITE",
+    "description": "An e-commerce website built with HTML, CSS, and JavaScript featuring a home page with promotions, an about page, a contact form, and a product catalog with prices. Users can add items to the cart and manage purchases easily. The site is fully responsive with an intuitive UI.",
+    "code": "https://github.com/Rishank67/e-commerce-js",
+    "url": "https://rishank67.github.io/e-commerce-js/"
+  },
+  {
+    "image": "/images/Todo-List.png",
+    "title": "TODO-LIST",
+    "description": "Developed a dynamic To-Do List app using React with features to add, delete, and mark tasks as completed or pending. Includes a “clear all” option and uses local storage to retain tasks after refresh. The app also displays real-time date and time for an enhanced user experience.",
+    "code": "https://github.com/Rishank67/react-todo",
+    "url": " https://rishank67.github.io/react-todo/"
+  },
+  {
+    "image": "/images/Netflix.png",
+    "title": "NETFLIX-CLONE",
+    "description": "Built a responsive Netflix clone using React with a clean UI and smooth user experience. Integrated a movie API to dynamically fetch and display movie cards, along with trailer playback on click. Implemented secure user authentication using Firebase for signup and login.",
+    "code": "https://github.com/Rishank67/netflix-clone",
+    "url": "https://netflix-clone-58407.web.app/"
+  }
+]

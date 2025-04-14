@@ -1,0 +1,17 @@
+.applayout {
+  min-width: 100vw;
+  min-height: 100vh;
+}
+.outlet-content {
+  margin-left: 32vw;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (width<610px) {
+  .outlet-content {
+    margin: 0;
+    min-height: 0;
+  }
+}
