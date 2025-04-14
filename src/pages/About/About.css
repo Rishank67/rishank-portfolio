@@ -90,6 +90,7 @@ h1 {
 }
 @media (width<=496px) {
   .about-section {
-    width: 40rem;
+    width: 45rem;
+    grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
   }
 }
