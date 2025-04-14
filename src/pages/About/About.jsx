@@ -6,7 +6,7 @@ export const About = () => {
       <h1>ABOUT</h1>
       <div className="about-section">
         <div className="about-img">
-          <img src="/images/About.png" alt="about-img" />
+          <img src="images/About.png" alt="about-img" />
         </div>
         <div className="about-info">
           <p>
@@ -34,7 +34,7 @@ export const About = () => {
           </p>
         </div>
         <div className="hobby-img">
-          <img src="/images/Hobby.png" alt="" />
+          <img src="images/Hobby.png" alt="" />
         </div>
       </div>
     </div>

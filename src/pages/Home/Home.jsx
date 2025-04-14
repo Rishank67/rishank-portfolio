@@ -1,5 +1,3 @@
-import { FaRegHandPointRight } from "react-icons/fa";
-
 import "./Home.css";
 export const Home = () => {
   return (
@@ -13,7 +11,7 @@ export const Home = () => {
         <div className="profile">
           <div className="profile-ring"></div>
           <div className="profile-card">
-            <img src="/images/Profile.jpg" alt="" />
+            <img src="images/Profile.jpg" alt="" />
           </div>
         </div>
       </div>
